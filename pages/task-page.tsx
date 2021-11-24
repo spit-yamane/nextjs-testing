@@ -25,7 +25,7 @@ const TaskPage: React.FC<STATICPROPS> = ({ staticTasks }) => {
   if (error) {
     return (
       <Layout title="Comment">
-        <span>Error</span>
+        <span>Eror</span>
       </Layout>
     )
   }
